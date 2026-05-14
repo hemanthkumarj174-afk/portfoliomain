@@ -1,0 +1,5 @@
+Branch to deploy:      main
+Base directory:        (empty)
+Build command:         (empty)
+Publish directory:     (empty)
+Functions directory:   (empty)
